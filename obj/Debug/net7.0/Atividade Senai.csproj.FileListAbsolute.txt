@@ -1,0 +1,4 @@
+C:\Users\alexa\OneDrive\Documentos\Atividade Senai\obj\Debug\net7.0\Atividade Senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documentos\Atividade Senai\obj\Debug\net7.0\Atividade Senai.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documentos\Atividade Senai\obj\Debug\net7.0\Atividade Senai.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documentos\Atividade Senai\obj\Debug\net7.0\Atividade Senai.csproj.CoreCompileInputs.cache
